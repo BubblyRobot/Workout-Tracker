@@ -3,7 +3,7 @@
   ![Badge](https://img.shields.io/badge/project-workout_tracker-greenn)
   ![Badge](https://img.shields.io/badge/Installation-MongoDB_Express_Mongoose-blue)
 
-[Webpage Heroku](https://.herokuapp.com/)
+[Webpage Heroku](https://work-outtracker.herokuapp.com/)
 
 ## Description
 This workout tracker is an app that allows user to keep track of their daily workouts and see their progress over time. The app lets the user input and view the statistics of all recent cardio and resistance workouts that they have inputted. 
