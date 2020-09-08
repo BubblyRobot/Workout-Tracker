@@ -30,6 +30,4 @@ GitHub Username: https://github.com/mikewclee
   
 ![Profile Image](https://github.com/mikewclee.png?size=150)
   
-GitHub Project link: https://github.com/mikewclee/burger
-  
 Contact email: mikewclee@gmail.com
